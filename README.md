@@ -12,7 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&pause=1000&color=5CEBFF&center=true&vCenter=true&width=435&height=150&lines=Hi%2C+I%E2%80%99m+HongXunPan;Work+with+PHP%2C+passion+%26+love)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&pause=1000&color=FD4AFF&center=true&vCenter=true&width=435&height=150&lines=Hi%2C+I%E2%80%99m+HongXunPan;Work+with+PHP%2C+passion+%26+love)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&pause=1000&color=FD4AFF&center=true&vCenter=true&width=435&height=150&lines=Hi%2C+I%E2%80%99m+HongXunPan;Work+with+PHP%2C+passion+%26+love)](https://git.io/typing-svg) -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&pause=1000&color=FD4AFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+I%E2%80%99m+HongXunPan;Work+with+PHP%2C+passion+%26+love)](https://git.io/typing-svg)
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
 width="800"  height="3">
