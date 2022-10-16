@@ -20,7 +20,7 @@ width="800"  height="3">
 </div>
 
 <!-- ![HongXunPan's github stats](https://github-readme-stats.vercel.app/api?username=HongXunPan&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn) -->
-![Most Language](https://github-readme-stats.vercel.app/api/top-langs/?username=HongXunPan&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+<!-- ![Most Language](https://github-readme-stats.vercel.app/api/top-langs/?username=HongXunPan&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn) -->
 
 ![](https://activity-graph.herokuapp.com/graph?username=HongXunPan&theme=github)
 
@@ -35,9 +35,13 @@ width="800"  height="3">
 
 ### Pinned
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HongXunPan&repo=kangxuanpeng.com&show_owner=true)](https://github.com/HongXunPan/kangxuanpeng.com) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HongXunPan&repo=simple-framework&show_owner=true)](https://github.com/HongXunPan/simple-framework)
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HongXunPan&repo=kangxuanpeng.com&show_owner=true)](https://github.com/HongXunPan/kangxuanpeng.com)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HongXunPan&repo=simple-framework&show_owner=true)](https://github.com/HongXunPan/simple-framework)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HongXunPan&repo=php-tools&show_owner=true)](https://github.com/HongXunPan/php-tools) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HongXunPan&repo=db-connection&show_owner=true)](https://github.com/HongXunPan/db-connection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HongXunPan&repo=php-tools&show_owner=true)](https://github.com/HongXunPan/php-tools)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HongXunPan&repo=db-connection&show_owner=true)](https://github.com/HongXunPan/db-connection)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HongXunPan&repo=MY-RESUME&show_owner=true)](https://github.com/HongXunPan/MY-RESUME) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=life-long-learning&repo=keep-learning&show_owner=true)](https://github.com/life-long-learning/keep-learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HongXunPan&repo=MY-RESUME&show_owner=true)](https://github.com/HongXunPan/MY-RESUME)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=life-long-learning&repo=keep-learning&show_owner=true)](https://github.com/life-long-learning/keep-learning)
+
+</div>
