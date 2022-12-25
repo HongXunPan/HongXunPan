@@ -26,7 +26,7 @@ width="800"  height="3">
 
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=HongXunPan&theme=github) -->
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=HongXunPan) -->
-![](https://github-readme-activity-graph.cyclic.app/graph?username=HongXunPan&bg_color=ffffff&color=e643e8&line=e643e8&point=584658&area=true&hide_border=true)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=HongXunPan&theme=react-dark)
 
 
 <!-- ### 🏊 更多仓库
