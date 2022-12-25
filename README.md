@@ -26,7 +26,7 @@ width="800"  height="3">
 
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=HongXunPan&theme=github) -->
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=HongXunPan) -->
-![](https://github-readme-activity-graph.cyclic.app/graph?username=HongXunPan&theme=merko)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=HongXunPan&theme=rogue)
 
 
 <!-- ### 🏊 更多仓库
